@@ -35,7 +35,7 @@ global.owner = ["6281908052908] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6281908052908" // nomor wa kalian
 global.ownernomerr = "+6281908052908" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-global.donasi = "./image/donasi.jpg" // foto donasi di folder image
+global.donasi = "./image/donas.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 
 global.packname = 'WhatsApp©️' //sticker wm ubah
