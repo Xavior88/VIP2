@@ -25,9 +25,9 @@ global.language = english  //change indonesia to english if you don't understand
 // Other
 global.botname = "WhatApp©️" //namabot kalian
 global.ownername= "Xavior©️" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
+global.myweb ="https://saweria.co/nanang13" //bebas asal jan hapus
 global.youtube = "https://youtu.be/ncHVD29pIvA" //bebas asal jan hapus
-global.github = "https://zeeone-ofc.github.io/" //bebas
+global.github = "https://saweria.co/nanang13" //bebas
 global.email = "nanangku122@gmail.com@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
